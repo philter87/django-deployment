@@ -11,5 +11,6 @@ python manage.py runserver
 
 
 # Render.com
+# Create webservice and add 'poetry run gunicorn django_deployment.wsgi --bind 0.0.0.0:8000"
 
 ```
